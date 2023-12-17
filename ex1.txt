@@ -1,0 +1,1 @@
+creats ex1.txt file
